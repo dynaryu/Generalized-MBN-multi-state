@@ -1,3 +1,2 @@
 # Generalized-MBN-multi-state
- Generalized matrix-based Bayesian network for multi-state systems;
- Reference: Byun, J.-E. and Song, J. (Under review) Generalized matrix-based Bayesian network for multi-state systems.
+  Reference: Byun, J.-E. and Song, J. (2021). Generalized matrix-based Bayesian network for multi-state systems. _Reliability Engineering and System Safety_, Vol. 211: 107468.
